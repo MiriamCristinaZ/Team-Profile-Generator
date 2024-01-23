@@ -4,6 +4,10 @@
 
 The Team Profile Generator is a command-line application that allows users to build a team profile by entering information about team members such as managers, engineers, and interns. It generates an HTML file that displays the team's information for easy access and sharing.
 
+## Screenshot
+
+![team-builder](assets/Web%20capture_23-1-2024_205551_.jpeg)
+
 ## Table of Contents
 
 - [Installation](#installation)
